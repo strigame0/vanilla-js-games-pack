@@ -1,2 +1,3 @@
 # Ideas
 Summarize deployment tests
+Summarize deployment logs
